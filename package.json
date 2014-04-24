@@ -1,0 +1,14 @@
+{
+  "name": "voting_twilio_node_hapi_couchdb",
+  "version": "0.0.0",
+  "description": "App voting with node.js integrating twilio and hapi and couchdb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "hapi": "~4.0.0"
+  }
+}

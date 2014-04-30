@@ -9,6 +9,7 @@
   "author": "",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "hapi": "~4.0.0"
+    "hapi": "~4.0.0",
+    "twilio": "~1.6.0"
   }
 }
